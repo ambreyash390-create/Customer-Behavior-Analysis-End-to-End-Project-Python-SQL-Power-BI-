@@ -27,7 +27,7 @@ This project was completed in three main stages:
   - Revenue contribution by age group  
 
 👉 Example: SQL queries used for analysis  
-:contentReference[oaicite:0]{index=0}  
+
 
 #### 3. Dashboard Creation (Visualization)
 - Built an interactive dashboard to present insights  
@@ -81,15 +81,7 @@ This project shows how raw data can be transformed into meaningful insights that
 - Connecting analysis with business insights  
 - Building dashboards that communicate insights clearly  
 
----
-
-### 📂 Project Structure
-├── data/                  # Raw dataset  
-├── notebooks/             # Data cleaning (Python)  
-├── sql/                   # SQL queries  
-├── dashboard/             # Dashboard files/images  
-└── README.md              # Documentation  
-
+ 
 ---
 
 ### 🚀 Final Thoughts
